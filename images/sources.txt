@@ -2,9 +2,6 @@
 cool face icon
 https://www.freepik.com/icon/cool_3810990
 
-website img portfolio
-https://colibriwp.com/blog/website-layout-design-ideas/
-
 student icon
 https://www.vecteezy.com/vector-art/511962-student-glyph-black-icon
 
@@ -13,3 +10,9 @@ https://www.vecteezy.com/vector-art/5720408-crossed-image-icon-picture-not-avail
 
 trollface
 https://pngimg.com/image/59565
+
+home background
+https://html5up.net/dimension
+
+form to google sheets script
+https://github.com/jamiewilson/form-to-google-sheets
